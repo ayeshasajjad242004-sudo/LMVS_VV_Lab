@@ -1,0 +1,6 @@
+Requirement 1:
+“The system should be very fast when issuing books.”
+Requirement 2:
+“Only authorized users should access the system securely and properly.”
+Requirement 2:
+“Only authorized users should access the system securely and properly.”
